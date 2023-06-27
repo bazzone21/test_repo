@@ -1,5 +1,5 @@
 # **test_repo**
-## Here I will describe the meaning and main differences between the `git pull` and `git` fetch commands
+## Here I will describe the meaning and main differences between the `git pull` and `git fetch` commands
 
 ### **$ `git fetch` [remote repository]**
 #### _Downloads the entire history from a remote repository into your local Git repo_
