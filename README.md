@@ -12,4 +12,4 @@
 
 ### **The `git commit --amend` command** 
 
-### _This comand is a convenient way to change the last commit. It allows you to merge indexed changes with the previous commit without creating a new commit. It can be used to edit a comment on a previous commit without changing the state of the code in it. But such a change not only edits the last commit, but completely replaces it. That is, the modified commit will become a new entity with a separate reference. To Git, it will look like a new commit, which is marked with an asterisk (*)_.
+#### _This comand is a convenient way to change the last commit. It allows you to merge indexed changes with the previous commit without creating a new commit. It can be used to edit a comment on a previous commit without changing the state of the code in it. But such a change not only edits the last commit, but completely replaces it. That is, the modified commit will become a new entity with a separate reference. To Git, it will look like a new commit, which is marked with an asterisk (*)_.
